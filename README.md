@@ -1,5 +1,5 @@
 <h1 align="center">
-  Oii, bem vindo ao meu perfil 🌸
+  Oii! Eu sou Lídia Setúbal 🌸
 </h1>
 
 <h2 align="center">
